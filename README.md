@@ -27,7 +27,7 @@ The OrangePi CM4 baseboard supports both SATA and NVMe SSDs in the M.2 slot, but
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/skot/orange-cm4-sata-tools/orangepi-cm4-sata-enable.sh
+wget https://raw.githubusercontent.com/skot/orange-cm4-sata-tools/refs/heads/main/orangepi-cm4-sata-enable.sh
 
 # Make it executable
 chmod +x orangepi-cm4-sata-enable.sh
