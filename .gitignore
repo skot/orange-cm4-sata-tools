@@ -1,0 +1,22 @@
+# Compiled device tree files
+*.dtbo
+
+# Temporary files
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*~
+.vscode/
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Generated files during testing
+test_output/
